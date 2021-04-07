@@ -167,7 +167,7 @@ const GridRight = styled.div`
   grid-area: 1 / 2 / 2 / 3;
 
   .step-container {
-    margin-bottom: 3rem;
+    margin-bottom: 2.99rem;
   }
 
   .steps {
